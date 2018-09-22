@@ -1,6 +1,8 @@
 # SimplyRESTful-example
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=plastic)](https://opensource.org/licenses/Apache-2.0)
 
+**DEPRECATED: This has been moved to [the main SimplyRESTful repository](https://github.com/arucard21/SimplyRESTful/tree/master/SimplyRESTful-example)**
+
 Examples on how to use the SimplyRESTful library, with different deployment methods.
 
 The examples are organized in the following sub-projects, each of which contains an example for a specific deployment method (except `datastore` which is shared code to make the examples work):
